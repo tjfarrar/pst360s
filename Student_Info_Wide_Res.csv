@@ -1,0 +1,501 @@
+StudentNr,Sex,Province_of_Origin,InRes_2020,InRes_2021,InRes_2022
+11322,Male,Western Cape,FALSE,FALSE,TRUE
+11342,Female,Limpopo,NA,NA,TRUE
+11415,Male,KwaZulu-Natal,NA,TRUE,TRUE
+11464,Female,Gauteng,NA,NA,FALSE
+11495,Female,KwaZulu-Natal,FALSE,FALSE,NA
+11737,Male,Gauteng,TRUE,FALSE,NA
+11846,Female,KwaZulu-Natal,NA,NA,FALSE
+11898,Female,Northern Cape,NA,NA,TRUE
+12214,Female,Mpumalanga,NA,FALSE,FALSE
+12272,Male,Western Cape,FALSE,TRUE,TRUE
+12498,Male,Limpopo,TRUE,TRUE,TRUE
+12695,Male,Eastern Cape,NA,NA,FALSE
+12894,Female,KwaZulu-Natal,FALSE,FALSE,FALSE
+12897,Female,Limpopo,TRUE,TRUE,TRUE
+12967,Female,Mpumalanga,TRUE,TRUE,NA
+12984,Male,Eastern Cape,NA,FALSE,FALSE
+13233,Female,KwaZulu-Natal,TRUE,NA,NA
+13285,Female,KwaZulu-Natal,TRUE,TRUE,TRUE
+13317,Male,KwaZulu-Natal,FALSE,NA,NA
+13324,Male,Western Cape,FALSE,NA,NA
+13414,Male,KwaZulu-Natal,FALSE,NA,NA
+14294,Female,Western Cape,TRUE,TRUE,NA
+14524,Female,Eastern Cape,TRUE,NA,NA
+14557,Male,Gauteng,TRUE,NA,NA
+14686,Female,Eastern Cape,FALSE,FALSE,FALSE
+14935,Female,North West,NA,TRUE,TRUE
+15166,Female,Western Cape,NA,NA,FALSE
+15186,Male,Limpopo,FALSE,NA,NA
+15225,Male,Eastern Cape,FALSE,FALSE,FALSE
+15356,Female,Limpopo,FALSE,NA,NA
+15561,Male,Western Cape,NA,NA,FALSE
+15578,Male,KwaZulu-Natal,NA,NA,TRUE
+15914,Female,Western Cape,TRUE,TRUE,TRUE
+16483,Female,KwaZulu-Natal,NA,TRUE,TRUE
+16547,Male,Eastern Cape,FALSE,NA,NA
+16843,Female,Eastern Cape,FALSE,FALSE,FALSE
+16972,Female,Gauteng,TRUE,NA,NA
+17131,Female,Western Cape,TRUE,TRUE,TRUE
+17246,Female,Gauteng,FALSE,FALSE,NA
+17466,Male,Western Cape,NA,NA,TRUE
+17485,Female,Western Cape,FALSE,FALSE,NA
+17628,Male,Gauteng,NA,TRUE,TRUE
+17744,Female,Eastern Cape,TRUE,NA,NA
+17836,Male,Gauteng,FALSE,FALSE,FALSE
+17847,Female,Eastern Cape,TRUE,TRUE,TRUE
+17873,Male,Gauteng,NA,NA,FALSE
+18134,Female,Western Cape,TRUE,TRUE,TRUE
+18139,Male,Eastern Cape,FALSE,NA,NA
+18153,Female,Eastern Cape,NA,NA,FALSE
+18234,Male,Eastern Cape,FALSE,FALSE,FALSE
+18451,Female,Free State,TRUE,TRUE,TRUE
+18635,Female,Western Cape,NA,NA,FALSE
+18678,Male,Mpumalanga,TRUE,NA,NA
+18693,Male,Western Cape,TRUE,NA,NA
+18942,Female,Northern Cape,TRUE,NA,NA
+18992,Female,KwaZulu-Natal,NA,FALSE,FALSE
+19144,Female,Gauteng,NA,FALSE,TRUE
+19356,Male,Mpumalanga,NA,TRUE,TRUE
+19714,Female,Gauteng,NA,NA,FALSE
+19921,Male,KwaZulu-Natal,TRUE,TRUE,NA
+19956,Male,Free State,TRUE,TRUE,FALSE
+21261,Female,Northern Cape,TRUE,TRUE,NA
+21296,Female,Mpumalanga,FALSE,TRUE,NA
+21463,Female,Western Cape,FALSE,TRUE,TRUE
+21495,Female,KwaZulu-Natal,TRUE,FALSE,FALSE
+21594,Female,Eastern Cape,FALSE,TRUE,TRUE
+21638,Male,Eastern Cape,TRUE,NA,NA
+21748,Female,Western Cape,TRUE,NA,NA
+22133,Male,Northern Cape,FALSE,NA,NA
+22159,Female,Eastern Cape,TRUE,FALSE,FALSE
+22548,Female,North West,NA,FALSE,FALSE
+22593,Female,Western Cape,FALSE,FALSE,FALSE
+22672,Female,Western Cape,FALSE,TRUE,FALSE
+22773,Male,Western Cape,NA,FALSE,FALSE
+22896,Male,Western Cape,FALSE,FALSE,FALSE
+23182,Male,Limpopo,TRUE,TRUE,TRUE
+23196,Male,Limpopo,TRUE,TRUE,TRUE
+23231,Female,Gauteng,FALSE,NA,NA
+23331,Male,Eastern Cape,TRUE,NA,NA
+23367,Female,Western Cape,TRUE,TRUE,TRUE
+23373,Male,Western Cape,NA,NA,TRUE
+23429,Male,KwaZulu-Natal,TRUE,NA,NA
+23467,Male,Western Cape,FALSE,FALSE,NA
+23523,Female,Gauteng,NA,FALSE,FALSE
+23556,Male,North West,TRUE,TRUE,NA
+23677,Female,Eastern Cape,NA,NA,TRUE
+24267,Male,North West,NA,FALSE,TRUE
+24653,Female,Free State,NA,NA,FALSE
+24982,Female,Western Cape,NA,TRUE,TRUE
+25254,Male,Eastern Cape,FALSE,FALSE,FALSE
+25298,Female,Eastern Cape,FALSE,NA,NA
+25516,Female,Mpumalanga,FALSE,FALSE,NA
+25743,Female,Free State,TRUE,TRUE,NA
+25895,Male,Gauteng,FALSE,TRUE,NA
+26266,Male,KwaZulu-Natal,TRUE,NA,NA
+26287,Male,Gauteng,TRUE,FALSE,FALSE
+26486,Female,Western Cape,TRUE,NA,NA
+26545,Male,Eastern Cape,TRUE,TRUE,NA
+26559,Female,KwaZulu-Natal,FALSE,FALSE,NA
+26641,Female,North West,NA,TRUE,TRUE
+27284,Female,Mpumalanga,NA,NA,TRUE
+27534,Female,Free State,TRUE,TRUE,TRUE
+27949,Male,Eastern Cape,NA,NA,TRUE
+28363,Female,KwaZulu-Natal,NA,FALSE,FALSE
+29116,Male,Mpumalanga,TRUE,FALSE,NA
+29147,Female,Western Cape,NA,TRUE,TRUE
+29188,Female,Western Cape,TRUE,TRUE,NA
+29534,Female,Gauteng,NA,FALSE,FALSE
+29569,Male,Western Cape,NA,NA,FALSE
+29598,Female,Western Cape,FALSE,TRUE,TRUE
+29679,Female,Eastern Cape,NA,FALSE,TRUE
+29932,Female,Western Cape,NA,NA,FALSE
+29961,Female,Eastern Cape,NA,TRUE,TRUE
+29976,Female,Limpopo,NA,TRUE,TRUE
+31159,Male,Gauteng,TRUE,TRUE,NA
+31368,Male,Gauteng,TRUE,FALSE,TRUE
+31372,Female,Mpumalanga,NA,TRUE,TRUE
+31525,Male,Gauteng,NA,NA,TRUE
+31551,Female,Gauteng,FALSE,FALSE,FALSE
+31575,Male,Gauteng,TRUE,TRUE,NA
+31634,Male,Western Cape,TRUE,TRUE,NA
+31991,Female,North West,NA,NA,FALSE
+32652,Male,Western Cape,FALSE,FALSE,NA
+32758,Male,Eastern Cape,NA,NA,TRUE
+32817,Male,Limpopo,TRUE,NA,NA
+32865,Female,KwaZulu-Natal,TRUE,FALSE,NA
+32975,Female,Northern Cape,NA,FALSE,TRUE
+33256,Female,KwaZulu-Natal,FALSE,TRUE,TRUE
+33397,Female,Free State,FALSE,NA,NA
+33491,Female,KwaZulu-Natal,TRUE,TRUE,TRUE
+33511,Male,Gauteng,NA,NA,TRUE
+33695,Male,KwaZulu-Natal,TRUE,NA,NA
+34118,Female,Western Cape,NA,NA,FALSE
+34285,Male,KwaZulu-Natal,TRUE,TRUE,TRUE
+34484,Female,Western Cape,TRUE,TRUE,NA
+34497,Female,Eastern Cape,NA,TRUE,TRUE
+34642,Female,Mpumalanga,FALSE,FALSE,TRUE
+34772,Female,Mpumalanga,NA,FALSE,TRUE
+34893,Male,Gauteng,TRUE,NA,NA
+34991,Female,Western Cape,FALSE,FALSE,FALSE
+35244,Female,Western Cape,NA,TRUE,FALSE
+35419,Female,Mpumalanga,NA,NA,FALSE
+35428,Female,Western Cape,FALSE,FALSE,TRUE
+35567,Male,North West,TRUE,TRUE,NA
+35624,Male,Eastern Cape,FALSE,FALSE,NA
+36196,Female,Eastern Cape,NA,NA,FALSE
+36229,Male,Limpopo,TRUE,NA,NA
+36247,Male,Limpopo,FALSE,NA,NA
+36283,Male,Western Cape,NA,FALSE,FALSE
+36328,Male,Mpumalanga,TRUE,TRUE,TRUE
+36816,Female,Gauteng,NA,NA,TRUE
+36889,Male,Eastern Cape,TRUE,TRUE,TRUE
+37224,Female,Eastern Cape,FALSE,FALSE,FALSE
+37311,Male,KwaZulu-Natal,TRUE,NA,NA
+37492,Female,Eastern Cape,NA,TRUE,TRUE
+37718,Female,KwaZulu-Natal,NA,NA,TRUE
+37772,Male,Mpumalanga,TRUE,NA,NA
+37864,Male,Gauteng,FALSE,FALSE,FALSE
+37913,Male,Free State,FALSE,NA,NA
+37915,Female,Northern Cape,TRUE,FALSE,FALSE
+37988,Female,Western Cape,TRUE,FALSE,NA
+38171,Female,Western Cape,NA,NA,FALSE
+38267,Male,North West,NA,FALSE,FALSE
+38555,Female,North West,NA,NA,FALSE
+38642,Female,Western Cape,NA,FALSE,FALSE
+38769,Female,North West,FALSE,FALSE,FALSE
+38946,Male,Western Cape,NA,NA,TRUE
+39127,Male,KwaZulu-Natal,TRUE,NA,NA
+39154,Female,KwaZulu-Natal,FALSE,FALSE,FALSE
+39184,Male,Western Cape,FALSE,NA,NA
+39648,Female,KwaZulu-Natal,FALSE,FALSE,FALSE
+39911,Female,KwaZulu-Natal,NA,TRUE,TRUE
+41211,Female,KwaZulu-Natal,TRUE,TRUE,TRUE
+41214,Female,Eastern Cape,FALSE,FALSE,FALSE
+41754,Female,Western Cape,TRUE,TRUE,TRUE
+41812,Female,Gauteng,TRUE,TRUE,TRUE
+41888,Male,Eastern Cape,TRUE,TRUE,TRUE
+41961,Male,Gauteng,NA,NA,TRUE
+42223,Male,KwaZulu-Natal,TRUE,NA,NA
+42331,Female,North West,FALSE,FALSE,NA
+42337,Male,Eastern Cape,FALSE,TRUE,TRUE
+42663,Male,Eastern Cape,FALSE,NA,NA
+42864,Female,Western Cape,TRUE,TRUE,NA
+43727,Male,Eastern Cape,TRUE,NA,NA
+44239,Female,Limpopo,TRUE,TRUE,NA
+44315,Male,Western Cape,TRUE,NA,NA
+44484,Female,Gauteng,TRUE,TRUE,TRUE
+44582,Female,KwaZulu-Natal,FALSE,FALSE,NA
+44715,Female,Limpopo,NA,FALSE,FALSE
+44758,Female,Limpopo,NA,TRUE,TRUE
+44891,Male,Western Cape,FALSE,TRUE,TRUE
+44897,Male,Eastern Cape,TRUE,TRUE,TRUE
+45132,Male,Northern Cape,FALSE,FALSE,FALSE
+45221,Female,Western Cape,FALSE,FALSE,FALSE
+45545,Female,KwaZulu-Natal,NA,NA,FALSE
+45839,Male,Free State,TRUE,TRUE,TRUE
+45866,Female,Gauteng,FALSE,NA,NA
+46332,Male,KwaZulu-Natal,TRUE,NA,NA
+46557,Male,Mpumalanga,FALSE,FALSE,FALSE
+46622,Female,Northern Cape,FALSE,FALSE,TRUE
+46851,Male,Western Cape,FALSE,FALSE,FALSE
+46878,Male,Eastern Cape,FALSE,FALSE,NA
+47223,Female,Western Cape,NA,TRUE,TRUE
+47549,Male,Gauteng,NA,TRUE,TRUE
+47667,Male,Gauteng,TRUE,TRUE,NA
+47887,Female,Western Cape,NA,NA,TRUE
+48434,Female,Limpopo,NA,NA,FALSE
+48639,Female,Gauteng,NA,FALSE,FALSE
+48664,Male,Free State,TRUE,NA,NA
+48697,Male,KwaZulu-Natal,TRUE,TRUE,TRUE
+48919,Female,Gauteng,FALSE,FALSE,FALSE
+48932,Male,Limpopo,FALSE,FALSE,FALSE
+48989,Female,Eastern Cape,FALSE,FALSE,FALSE
+49148,Male,Western Cape,NA,FALSE,FALSE
+49165,Male,Eastern Cape,TRUE,TRUE,TRUE
+49253,Female,Eastern Cape,NA,FALSE,FALSE
+49667,Male,Eastern Cape,FALSE,FALSE,TRUE
+49784,Female,Eastern Cape,NA,NA,FALSE
+49796,Male,Eastern Cape,FALSE,FALSE,FALSE
+49838,Male,Eastern Cape,FALSE,NA,NA
+51214,Female,Limpopo,NA,FALSE,FALSE
+51562,Male,Western Cape,TRUE,NA,NA
+51579,Male,Mpumalanga,NA,FALSE,FALSE
+51671,Male,Northern Cape,NA,NA,FALSE
+51939,Female,North West,NA,TRUE,TRUE
+52285,Male,Western Cape,NA,NA,FALSE
+52431,Female,Northern Cape,NA,FALSE,FALSE
+52498,Female,Western Cape,FALSE,FALSE,FALSE
+52793,Male,Western Cape,FALSE,NA,NA
+52896,Female,Mpumalanga,TRUE,TRUE,TRUE
+52945,Male,Gauteng,TRUE,NA,NA
+53586,Male,Gauteng,FALSE,FALSE,FALSE
+53719,Female,Gauteng,NA,NA,TRUE
+53728,Male,KwaZulu-Natal,NA,FALSE,FALSE
+53841,Female,Western Cape,FALSE,FALSE,FALSE
+53945,Male,Northern Cape,TRUE,NA,NA
+54246,Female,Eastern Cape,TRUE,TRUE,TRUE
+54269,Female,North West,TRUE,NA,NA
+54723,Male,North West,FALSE,NA,NA
+54763,Female,Eastern Cape,TRUE,TRUE,TRUE
+55445,Female,Eastern Cape,NA,FALSE,FALSE
+55582,Female,Northern Cape,FALSE,FALSE,TRUE
+55761,Male,Limpopo,TRUE,FALSE,FALSE
+55839,Male,North West,TRUE,TRUE,NA
+55899,Female,Northern Cape,FALSE,TRUE,TRUE
+56153,Female,KwaZulu-Natal,NA,NA,FALSE
+56162,Male,KwaZulu-Natal,TRUE,TRUE,TRUE
+56219,Male,Limpopo,NA,FALSE,FALSE
+56279,Male,KwaZulu-Natal,NA,TRUE,TRUE
+56455,Male,Mpumalanga,TRUE,NA,NA
+56462,Male,Western Cape,FALSE,NA,NA
+56519,Male,Eastern Cape,TRUE,NA,NA
+56796,Male,Eastern Cape,TRUE,TRUE,TRUE
+57116,Female,Mpumalanga,FALSE,FALSE,NA
+57328,Female,Eastern Cape,TRUE,FALSE,FALSE
+57354,Female,KwaZulu-Natal,FALSE,FALSE,FALSE
+57575,Male,Eastern Cape,FALSE,FALSE,NA
+57654,Female,KwaZulu-Natal,TRUE,TRUE,FALSE
+57738,Male,Gauteng,TRUE,TRUE,TRUE
+57761,Female,Northern Cape,FALSE,FALSE,FALSE
+57867,Male,North West,TRUE,NA,NA
+57876,Male,Limpopo,NA,NA,TRUE
+57989,Female,Gauteng,TRUE,TRUE,NA
+58142,Male,Eastern Cape,TRUE,TRUE,NA
+58274,Male,Western Cape,NA,NA,FALSE
+58288,Female,Eastern Cape,TRUE,TRUE,NA
+58353,Female,Eastern Cape,TRUE,TRUE,NA
+58359,Female,Gauteng,NA,TRUE,TRUE
+58412,Female,North West,TRUE,NA,NA
+58471,Female,Western Cape,FALSE,FALSE,TRUE
+58518,Female,Western Cape,NA,TRUE,TRUE
+58591,Female,Mpumalanga,NA,NA,TRUE
+58879,Male,Northern Cape,TRUE,NA,NA
+58899,Female,Limpopo,NA,TRUE,TRUE
+58971,Female,Free State,TRUE,TRUE,TRUE
+59111,Male,Eastern Cape,FALSE,NA,NA
+59124,Female,Eastern Cape,NA,FALSE,TRUE
+59373,Female,Eastern Cape,TRUE,TRUE,TRUE
+59391,Female,Western Cape,NA,NA,FALSE
+59533,Female,Free State,TRUE,TRUE,TRUE
+59552,Male,Mpumalanga,FALSE,FALSE,FALSE
+59612,Female,KwaZulu-Natal,TRUE,NA,NA
+59711,Female,Eastern Cape,TRUE,TRUE,NA
+59785,Female,Mpumalanga,NA,FALSE,FALSE
+59797,Female,Western Cape,NA,NA,FALSE
+61165,Male,Northern Cape,TRUE,TRUE,NA
+61322,Female,Northern Cape,TRUE,TRUE,NA
+61368,Female,Eastern Cape,NA,NA,TRUE
+61455,Female,Gauteng,TRUE,FALSE,FALSE
+61761,Female,Gauteng,NA,FALSE,FALSE
+61965,Male,Mpumalanga,NA,TRUE,TRUE
+62286,Female,KwaZulu-Natal,NA,FALSE,FALSE
+62558,Male,Gauteng,FALSE,FALSE,NA
+62574,Male,Western Cape,FALSE,FALSE,NA
+62692,Female,Northern Cape,TRUE,TRUE,TRUE
+62817,Female,Western Cape,TRUE,TRUE,TRUE
+62834,Female,Eastern Cape,NA,NA,TRUE
+62896,Female,Eastern Cape,TRUE,TRUE,NA
+62964,Female,Northern Cape,NA,TRUE,TRUE
+63174,Female,Western Cape,NA,FALSE,TRUE
+63191,Male,Northern Cape,TRUE,TRUE,FALSE
+63257,Female,Northern Cape,TRUE,TRUE,TRUE
+63264,Male,Western Cape,FALSE,TRUE,NA
+63317,Female,Eastern Cape,NA,NA,FALSE
+63457,Male,Western Cape,TRUE,NA,NA
+63466,Female,Gauteng,NA,NA,FALSE
+63672,Female,Eastern Cape,FALSE,FALSE,FALSE
+63693,Male,Eastern Cape,NA,FALSE,FALSE
+63767,Male,Limpopo,NA,NA,TRUE
+63928,Male,Gauteng,NA,FALSE,TRUE
+64279,Female,Eastern Cape,FALSE,NA,NA
+64398,Male,Free State,TRUE,TRUE,NA
+64545,Male,KwaZulu-Natal,TRUE,TRUE,TRUE
+65385,Male,Western Cape,NA,NA,TRUE
+65467,Female,Mpumalanga,TRUE,TRUE,TRUE
+65558,Female,Western Cape,FALSE,FALSE,NA
+65744,Female,Gauteng,FALSE,NA,NA
+66222,Male,Gauteng,NA,TRUE,TRUE
+66281,Male,Gauteng,NA,NA,TRUE
+66347,Female,KwaZulu-Natal,NA,NA,FALSE
+66522,Male,Eastern Cape,TRUE,NA,NA
+66765,Female,Free State,TRUE,NA,NA
+66855,Female,KwaZulu-Natal,NA,TRUE,TRUE
+67215,Male,KwaZulu-Natal,NA,TRUE,TRUE
+67497,Male,KwaZulu-Natal,TRUE,TRUE,TRUE
+67525,Female,KwaZulu-Natal,FALSE,NA,NA
+67698,Female,Eastern Cape,NA,FALSE,FALSE
+67699,Male,Western Cape,TRUE,TRUE,TRUE
+67735,Male,Northern Cape,NA,FALSE,FALSE
+68534,Female,Western Cape,NA,TRUE,TRUE
+68846,Female,Free State,FALSE,FALSE,TRUE
+68965,Female,Western Cape,NA,FALSE,FALSE
+69133,Male,Northern Cape,TRUE,FALSE,FALSE
+69141,Male,Northern Cape,NA,FALSE,FALSE
+69646,Female,KwaZulu-Natal,NA,TRUE,FALSE
+69733,Male,Gauteng,NA,NA,FALSE
+69812,Female,Eastern Cape,TRUE,TRUE,TRUE
+71194,Female,Eastern Cape,FALSE,FALSE,TRUE
+71249,Female,Limpopo,NA,NA,FALSE
+71257,Female,Western Cape,TRUE,TRUE,NA
+71268,Male,Free State,NA,NA,TRUE
+71286,Male,Gauteng,FALSE,FALSE,NA
+71368,Male,North West,NA,NA,FALSE
+71736,Female,Eastern Cape,TRUE,TRUE,NA
+71952,Female,Western Cape,TRUE,NA,NA
+72218,Female,Western Cape,TRUE,TRUE,NA
+72646,Male,Eastern Cape,NA,NA,TRUE
+73268,Male,Western Cape,TRUE,TRUE,NA
+73346,Female,Free State,TRUE,TRUE,TRUE
+73423,Female,North West,NA,NA,TRUE
+73428,Female,Eastern Cape,NA,TRUE,TRUE
+74418,Female,Mpumalanga,NA,FALSE,FALSE
+74451,Female,Western Cape,NA,NA,TRUE
+74494,Female,Gauteng,TRUE,FALSE,FALSE
+74541,Female,Northern Cape,NA,FALSE,FALSE
+74571,Female,Western Cape,TRUE,TRUE,TRUE
+75132,Male,North West,FALSE,FALSE,FALSE
+75226,Female,Gauteng,NA,TRUE,TRUE
+75655,Female,Limpopo,NA,NA,TRUE
+75783,Female,Mpumalanga,TRUE,NA,NA
+75913,Female,Limpopo,NA,TRUE,TRUE
+76176,Male,Free State,TRUE,TRUE,TRUE
+76182,Female,Eastern Cape,TRUE,TRUE,FALSE
+76222,Female,KwaZulu-Natal,NA,TRUE,TRUE
+76541,Female,Gauteng,FALSE,FALSE,NA
+76594,Female,Free State,TRUE,TRUE,TRUE
+76976,Female,Northern Cape,NA,NA,FALSE
+76981,Female,Western Cape,TRUE,TRUE,TRUE
+76997,Female,Gauteng,NA,TRUE,TRUE
+77112,Female,Northern Cape,FALSE,NA,NA
+77351,Female,Eastern Cape,FALSE,NA,NA
+77372,Male,North West,TRUE,TRUE,NA
+77414,Male,North West,NA,NA,FALSE
+77474,Male,Western Cape,FALSE,FALSE,FALSE
+77514,Male,Eastern Cape,NA,NA,TRUE
+77989,Male,Western Cape,TRUE,NA,NA
+78384,Female,Eastern Cape,NA,NA,TRUE
+78789,Male,Eastern Cape,FALSE,NA,NA
+78797,Female,KwaZulu-Natal,FALSE,FALSE,NA
+78961,Male,Gauteng,TRUE,NA,NA
+79145,Male,Gauteng,FALSE,FALSE,FALSE
+79757,Male,Eastern Cape,FALSE,FALSE,TRUE
+81149,Female,Northern Cape,NA,FALSE,FALSE
+81531,Male,Limpopo,NA,FALSE,FALSE
+81548,Male,Eastern Cape,FALSE,FALSE,FALSE
+81698,Male,Eastern Cape,FALSE,NA,NA
+81753,Female,Gauteng,FALSE,NA,NA
+81773,Female,Free State,FALSE,NA,NA
+81845,Male,Eastern Cape,FALSE,NA,NA
+82362,Female,Western Cape,FALSE,FALSE,NA
+82659,Male,Eastern Cape,FALSE,FALSE,FALSE
+82761,Male,Northern Cape,FALSE,FALSE,FALSE
+82888,Female,Western Cape,FALSE,NA,NA
+82915,Male,KwaZulu-Natal,NA,TRUE,TRUE
+82937,Male,Eastern Cape,FALSE,FALSE,FALSE
+82985,Female,Gauteng,FALSE,FALSE,FALSE
+83166,Male,Eastern Cape,NA,NA,TRUE
+83427,Male,Western Cape,NA,TRUE,TRUE
+83571,Male,Free State,FALSE,FALSE,FALSE
+83871,Female,Eastern Cape,FALSE,NA,NA
+84251,Female,Western Cape,NA,TRUE,TRUE
+84287,Female,Eastern Cape,TRUE,TRUE,FALSE
+84356,Male,Eastern Cape,TRUE,TRUE,NA
+84377,Male,Limpopo,FALSE,FALSE,FALSE
+84423,Female,Eastern Cape,TRUE,FALSE,NA
+84521,Male,KwaZulu-Natal,FALSE,NA,NA
+84614,Female,Gauteng,TRUE,TRUE,NA
+85119,Male,Western Cape,NA,FALSE,FALSE
+85245,Female,Western Cape,FALSE,FALSE,NA
+85283,Male,Free State,FALSE,FALSE,NA
+85297,Female,KwaZulu-Natal,NA,FALSE,FALSE
+85342,Female,Northern Cape,TRUE,TRUE,FALSE
+85445,Female,KwaZulu-Natal,FALSE,FALSE,FALSE
+85524,Male,Eastern Cape,TRUE,NA,NA
+85595,Female,Gauteng,TRUE,NA,NA
+85727,Male,North West,TRUE,TRUE,TRUE
+86217,Female,Gauteng,TRUE,NA,NA
+86362,Female,KwaZulu-Natal,TRUE,FALSE,FALSE
+86893,Female,KwaZulu-Natal,NA,FALSE,FALSE
+86977,Male,Western Cape,NA,NA,TRUE
+87218,Male,Western Cape,TRUE,TRUE,TRUE
+87314,Female,Eastern Cape,FALSE,TRUE,TRUE
+87476,Male,Western Cape,NA,FALSE,FALSE
+87939,Female,KwaZulu-Natal,NA,NA,TRUE
+88372,Female,Gauteng,FALSE,FALSE,NA
+88491,Male,Gauteng,TRUE,TRUE,NA
+88593,Female,Free State,NA,FALSE,FALSE
+88769,Female,KwaZulu-Natal,NA,TRUE,TRUE
+88869,Female,KwaZulu-Natal,TRUE,FALSE,NA
+88917,Male,Limpopo,FALSE,FALSE,FALSE
+89229,Male,Limpopo,NA,NA,FALSE
+89348,Female,Gauteng,NA,FALSE,FALSE
+89635,Female,North West,NA,TRUE,TRUE
+89636,Female,Gauteng,NA,FALSE,FALSE
+89811,Male,KwaZulu-Natal,TRUE,TRUE,NA
+89975,Male,Eastern Cape,TRUE,TRUE,NA
+89982,Female,Western Cape,FALSE,NA,NA
+91161,Male,Western Cape,FALSE,FALSE,FALSE
+91296,Female,Eastern Cape,TRUE,NA,NA
+91392,Male,Gauteng,TRUE,TRUE,NA
+91438,Male,KwaZulu-Natal,FALSE,TRUE,TRUE
+91583,Male,Western Cape,NA,NA,FALSE
+91624,Female,Eastern Cape,NA,NA,TRUE
+91717,Female,Gauteng,NA,NA,FALSE
+91864,Male,Gauteng,NA,FALSE,FALSE
+92151,Male,Free State,NA,FALSE,TRUE
+92586,Female,Free State,FALSE,FALSE,FALSE
+92868,Female,KwaZulu-Natal,TRUE,NA,NA
+92979,Male,Eastern Cape,NA,NA,TRUE
+93231,Female,Western Cape,FALSE,FALSE,FALSE
+93291,Female,Northern Cape,NA,NA,TRUE
+93399,Female,Eastern Cape,TRUE,FALSE,FALSE
+93488,Female,Northern Cape,TRUE,TRUE,TRUE
+93563,Male,Eastern Cape,FALSE,TRUE,NA
+93664,Male,Eastern Cape,NA,FALSE,FALSE
+93718,Female,Gauteng,FALSE,TRUE,NA
+93755,Male,Eastern Cape,NA,TRUE,FALSE
+93818,Male,Free State,TRUE,NA,NA
+93833,Female,Eastern Cape,TRUE,TRUE,TRUE
+93882,Male,Limpopo,NA,TRUE,TRUE
+93933,Female,Gauteng,TRUE,TRUE,NA
+94188,Male,KwaZulu-Natal,FALSE,FALSE,NA
+94249,Female,Western Cape,FALSE,NA,NA
+94574,Female,KwaZulu-Natal,TRUE,NA,NA
+94582,Female,Western Cape,FALSE,NA,NA
+94583,Female,Mpumalanga,NA,NA,TRUE
+94722,Female,Limpopo,FALSE,TRUE,TRUE
+94761,Female,Eastern Cape,NA,FALSE,FALSE
+94927,Female,KwaZulu-Natal,TRUE,TRUE,TRUE
+94962,Male,Northern Cape,TRUE,TRUE,TRUE
+94973,Male,KwaZulu-Natal,TRUE,TRUE,TRUE
+94995,Female,Free State,TRUE,TRUE,TRUE
+95433,Female,Gauteng,NA,FALSE,FALSE
+95828,Female,Western Cape,NA,TRUE,TRUE
+95865,Female,Gauteng,NA,NA,TRUE
+95999,Female,Free State,FALSE,FALSE,FALSE
+96232,Female,KwaZulu-Natal,FALSE,NA,NA
+96252,Male,Western Cape,NA,FALSE,FALSE
+96276,Female,Limpopo,NA,NA,FALSE
+96494,Male,KwaZulu-Natal,TRUE,TRUE,FALSE
+96575,Female,Gauteng,FALSE,FALSE,NA
+96633,Female,Western Cape,NA,NA,TRUE
+96725,Female,Mpumalanga,TRUE,FALSE,NA
+96929,Female,Gauteng,FALSE,TRUE,TRUE
+97138,Male,Eastern Cape,FALSE,FALSE,TRUE
+97531,Female,Limpopo,NA,NA,FALSE
+97597,Female,Northern Cape,TRUE,TRUE,TRUE
+97732,Female,KwaZulu-Natal,NA,NA,TRUE
+97944,Female,Western Cape,NA,FALSE,FALSE
+98231,Male,North West,TRUE,TRUE,TRUE
+98296,Female,Gauteng,TRUE,TRUE,TRUE
+98324,Male,Gauteng,NA,TRUE,TRUE
+98627,Female,KwaZulu-Natal,NA,FALSE,FALSE
+98933,Male,Free State,NA,NA,TRUE
+99191,Male,Eastern Cape,FALSE,TRUE,NA
+99285,Female,Gauteng,NA,TRUE,TRUE
+99338,Male,Eastern Cape,FALSE,FALSE,FALSE
+99769,Female,Northern Cape,TRUE,NA,NA
+99828,Female,Gauteng,TRUE,TRUE,TRUE
+99882,Male,Western Cape,NA,TRUE,TRUE
